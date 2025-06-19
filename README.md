@@ -1,28 +1,116 @@
-## 👨🏻‍💻 About Me
-👋 Hi, I’m Shubham Jha , a Programmer , Web Developer , Tech Enthusiast who is deeply interested in tackling challenging programming problems and loves to solve real life problems in the most optimal way.
 
-## 👨🏻‍🎓 Education
-I'm a pre-final student pursuing B.Tech focused in Information Technology (IT) from Delhi Technological University.
 
-## </> Programming languages
-C, C++ ,Python, Javascript
+# 👋 Hey there, I’m Shubham Jha
 
-## ⚛ Skills
-HTML, CSS , Tailwind , Javascript ,NodeJS , ReactJS , ExpressJS
+<img align="right" src="https://komarev.com/ghpvc/?username=iamshubh1&style=flat-square&color=blue" alt="Profile Views"/>
 
-## Some other related informations
+- 🔭 I’m currently mastering **Backend Development**, **RESTful APIs**, and **Database Schema Design**  
+- 🌱 I’m honing skills in **Frontend Frameworks** like **React.js**, **Next.js**, and **Responsive Design**  
+- 👯 I’m open to collaborating on **Full‑Stack Applications**, **API Integrations**, and **UI/UX Enhancements**  
+- 💬 Ask me about **Node.js**, **Express.js**, **React**  
+- 📫 Reach me at: [shubhamjha9721@gmail.com](mailto:shubhamjha9721@gmail.com)  
 
-🖥️ I'm currently working on the complexities of backend development. 
+---
 
-🤝 I would love to collaborate on any development project.
+## 🛠️ Tech Stack
 
-📫 You can reach me through the [mail](mailto:shubhamjha9721@gmail.com).
+| Languages              | Backend / DevOps          | Frontend                 | Databases               | Tools & Platforms        |
+|------------------------|---------------------------|--------------------------|-------------------------|--------------------------|
+| ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
 
-## 🔗 Links
-[![leetcode](data:image/png;base64,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)](https://leetcode.com/u/iamshubh108/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamjha9721/)
-[![gfg](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png)](https://www.geeksforgeeks.org/user/iamshubh786/)
+---
 
-## Authors
+## 🎓 Education
 
-- [@iamshubh1](https://github.com/iamshubh1)
+🎓 **B.Tech in Information Technology**  
+📍 *Delhi Technological University (DTU)* — New Delhi, India  
+🗓️ *Final Year Student* 
+
+💡 Focus Areas:  
+- Data Structures & Algorithms  
+- Operating Systems & DBMS  
+- Computer Networks & OOPs 
+- Web Development & Software Engineering
+ 
+🚀 Actively building real-world projects while balancing core CS fundamentals.
+
+---
+
+## 🚀 Projects & Highlights
+
+| Project                   | Description                                                                                          | Tech Stack                   | Link                                                                                  |
+|---------------------------|------------------------------------------------------------------------------------------------------|-------------------------------|---------------------------------------------------------------------------------------|
+| **HireNext**              | A full-featured job portal that facilitates seamless interaction between recruiters and job seekers, including job listings, applications, and company dashboards. | React.js, Node.js, Express.js, MongoDB | 🔗 [Repo](https://github.com/iamshubh1/HireNext)                                       |
+| **AskGPT**                | A web-based AI assistant interface that integrates with OpenAI’s GPT API to provide real-time answers to user queries in a chat-style UI. | React.js, OpenAI, JavaScript         | 🔗 [Repo](https://github.com/iamshubh1/AskGPT)                                         |
+| **Delhi Metro Project**   | A C++ program that computes the shortest and most efficient routes between any two stations in the Delhi Metro network, using graph algorithms. | C++, Dijkstra’s Algorithm     | 🔗 [Repo](https://github.com/iamshubh1/Delhi-Metro-Project)                            |
+| **Typing Speed Test**     | An interactive browser-based game that evaluates a user’s typing speed and accuracy with real-time scoring. | HTML, CSS, JavaScript         | 🔗 [Repo](https://github.com/iamshubh1/Typing-Speed-Test)                              |                              |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- 1. Overall activity: commits, PRs, issues, stars on your repos -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=iamshubh1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true&hide_border=true"
+    alt="GitHub Stats"
+  />
+
+  <!-- 2. Top languages (only your non-zero ones) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubh1&layout=compact&theme=radical&hide_title=true&langs_count=6&hide_border=true"
+    alt="Top Languages"
+  />
+
+  <!-- 3. Total stars across all your public repos -->
+  <a href="https://github.com/iamshubh1?tab=stars" target="_blank">
+    <img
+      src="https://img.shields.io/github/stars/iamshubh1?style=social&label=Stars"
+      alt="GitHub Stars"
+    />
+  </a>
+</p>
+
+---
+
+## 🏅 Achievements
+
+- 🔹 [![CodeChef](https://img.shields.io/badge/CodeChef-FF7D00?logo=codechef&logoColor=white)](https://www.codechef.com/users/iam_shubh786) **CodeChef**  
+  • Current Rating: · Highest: **2103** · Global Rank: **#40**
+
+- 🔹 [![Codeforces](https://img.shields.io/badge/Codeforces-0050EF?logo=codeforces&logoColor=white)](https://codeforces.com/profile/im_shubh) **Codeforces**  
+   • Current Rating: · Highest: **1630** 
+  
+- 🔹 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/iamshubh108/) **LeetCode**  
+  • Solved **1500+** problems across algorithms, data structures.
+
+- 🔹 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2ECC71?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/iamshubh786/) **GeeksforGeeks**  
+  • Authored **100+** articles & tutorials · **50K+** total reads
+
+- 🔹![Coding](https://img.shields.io/badge/-Coding-000?style=for-the-badge&logo=code&logoColor=white)**Coding**
+
+  • Consistent participation in CodeChef & Codeforces monthly contests  
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubhamjha9721/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/iamshubh1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="mailto:shubhamjha9721@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
+
+
+---
+
+> “First, solve the problem. Then, write the code.”  
+> — *John Johnson*
+
+*Feel free to ⭐️ this repo if you like what you see!* 🚀
