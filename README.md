@@ -84,8 +84,8 @@
 - 🔹 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/iamshubh108/) **LeetCode**  
   • Solved **1500+** problems across algorithms, data structures.
 
-- 🔹 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2ECC71?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/iamshubh786/) **GeeksforGeeks**  
-  • Authored **100+** articles & tutorials · **50K+** total reads
+- 🔹 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2ECC71?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/imshubh108/) **GeeksforGeeks**  
+  • Solved over more than **350+** problems.
 
 - 🔹![Coding](https://img.shields.io/badge/-Coding-000?style=for-the-badge&logo=code&logoColor=white)**Coding**
 
