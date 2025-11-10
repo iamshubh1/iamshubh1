@@ -1,6 +1,6 @@
 
 
-# 👋 Hey there, I’m Shubham Bansal
+# 👋 Hey there, I’m Shubham Jha
 
 <img align="right" src="https://komarev.com/ghpvc/?username=iamshubh1&style=flat-square&color=blue" alt="Profile Views"/>
 
@@ -8,7 +8,7 @@
 - 🌱 I’m honing skills in **Frontend Frameworks** like **React.js**, **Next.js**, and **Responsive Design**  
 - 👯 I’m open to collaborating on **Full‑Stack Applications**, **API Integrations**, and **UI/UX Enhancements**  
 - 💬 Ask me about **Node.js**, **Express.js**, **React**  
-- 📫 Reach me at: [shubhambansalimp@gmail.com](mailto:shubhambansalimp@gmail.com)  
+- 📫 Reach me at: [shubhamjha9721@gmail.com](mailto:shubhamjha9721@gmail.com)  
 
 ---
 
